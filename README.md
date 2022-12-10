@@ -7,7 +7,7 @@
 <img src="example_two.png" alt="Alt text" title="Look_two">
 
 
-# Installing in linux nvim
+# Installing nvim in linux 
 
 # Arch
 
@@ -30,15 +30,12 @@ flatpak install flathub io.neovim.nvim
 ```
 flatpak run io.neovim.nvim 
 ```
-# For more go to this link below 
+# For More Installing Option Go To This Link Below 
 
 ```
 https://github.com/neovim/neovim/wiki/Installing-Neovim
 ```
-# Open Terminal 
-
-
-# FOLLOW THIS STEPS
+# Open Terminal FOLLOW THIS STEPS
 
 
 
