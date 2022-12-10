@@ -78,7 +78,6 @@ colorscheme embark
 
 " To movie line of code up and down use code below  
 
-
 nnoremap <A-j> :m .+1<CR>==
 nnoremap <A-k> :m .-2<CR>==
 inoremap <A-j> <Esc>:m .+1<CR>==gi
