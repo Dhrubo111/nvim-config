@@ -35,15 +35,20 @@ https://github.com/neovim/neovim/wiki/Installing-Neovim
 
 
 
-STEP-1/cd ~/.config
+STEP-1
+  cd ~/.config
 
-STEP-2/mkdir nvim
+STEP-2
+mkdir nvim
 
-STEP-3/cd nvim
+STEP-3
+cd nvim
 
-STEP-6/git clone https://github.com/Dhrubo111/nvim-config.git
+STEP-6
+git clone https://github.com/Dhrubo111/nvim-config.git
 
-STEP-7/cp ~/.config/nvim/nvim-config/init.vim ~/.config/nvim/init.vim
+STEP-7
+cp ~/.config/nvim/nvim-config/init.vim ~/.config/nvim/init.vim
 
 
 FINALLY WATCH THIS VIDEO AND FIX THE MISSING PLUGS AND ERROS 
