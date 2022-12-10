@@ -1,5 +1,13 @@
 # nvim-config
 
+# demo and how it will look afer configuration 
+
+<img src="example_one.png" alt="Alt text" title="look_one">
+
+<img src="example_two.png" alt="Alt text" title="Look_two">
+
+
+
 # FOR ARCH BASED DISTRO RUN THE COMMAND BELOW
 
 ```
