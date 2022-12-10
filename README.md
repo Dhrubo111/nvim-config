@@ -7,37 +7,38 @@
 <img src="example_two.png" alt="Alt text" title="Look_two">
 
 
+# Installing in linux nvim
 
-# FOR ARCH BASED DISTRO RUN THE COMMAND BELOW
+# Arch
 
 ```
 sudo pacman -S neovim
 ```
-# FOR DEBIAN BASED DISTRO RUN THE COMMAND BELOW  
+# Debian  
 
 ```
 sudo apt-get install neovim
 ```
-# FOR FEDORA BASED DISTRO RUN THE COMMAND BASED
+# Fedora
 ```
 sudo dnf install -y neovim python3-neovim
 ```
-# YOU CAN SIMPLY USE FLATPAK
+# Flatpak
 ```
 flatpak install flathub io.neovim.nvim
 ```
 ```
 flatpak run io.neovim.nvim 
 ```
-# YOU CNA VISITE THE HERE TO FIND MORE OPTION 
+# For more go to this link below 
 
 ```
 https://github.com/neovim/neovim/wiki/Installing-Neovim
 ```
-# INSTALL GIT ON YOUR SYSTEM AND OPEN TERMINAL 
+# Open Terminal 
 
 
-# AFTER INSTALLING NEWVIM FOLLOW THIS STEPS
+# FOLLOW THIS STEPS
 
 
 
@@ -53,7 +54,7 @@ mkdir nvim
 ```
 cd nvim
 ```
-# STEP-6
+# STEP-6 if you don't have git than install it 
 ```
 git clone https://github.com/Dhrubo111/nvim-config.git
 ```
