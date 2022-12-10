@@ -4,7 +4,6 @@
 
 <img src="example_one.png" alt="Alt text" title="look_one">
 
-<img src="example_two.png" alt="Alt text" title="Look_two">
 
 
 # Installing nvim in linux 
